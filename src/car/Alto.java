@@ -18,5 +18,9 @@ public class Alto implements Vehicle{
 		// TODO Auto-generated method stub
 		System.out.println("Color: White");
 	}
+	
+	public void myCar() {
+		System.out.println("This is added my remote");
+	}
 
 }
