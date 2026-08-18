@@ -21,7 +21,7 @@ public class Alto implements Vehicle{
 	
 	public void myCar() {
 
-		System.out.println("This is added my remote");
+		System.out.println("This is added by remote");
 		System.out.println("this is added by home-to check");
 		
 	}
